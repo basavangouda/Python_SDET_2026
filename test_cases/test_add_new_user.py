@@ -45,7 +45,7 @@ class Test_03_Add_New_Customer:
         self.add_customer.enter_last_name("Ashvik")
         self.add_customer.select_gender("Male")
         self.add_customer.enter_companyname("QACircle")
-        #self.add_customer.enter_department("Testing")
+
         self.add_customer.select_checkbox_tax_exempt()
         self.add_customer.select_customers_roles("Guests")
         self.add_customer.select_manager_vendor("Vendor 1")
