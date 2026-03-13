@@ -1,0 +1,32 @@
+2026-03-13 19:14:14,656 : INFO :*************************Test_03_Add_new_user **********************
+2026-03-13 19:14:24,293 : INFO :*****************************Login is completed*************
+2026-03-13 19:14:24,293 : INFO :****************************Starting Add new customer Test***************
+2026-03-13 19:14:36,742 : INFO :****************************Providing customer Info started***************
+2026-03-13 19:14:54,550 : INFO :****************************Test_03_Add_New_Customer is Passed **************
+2026-03-13 19:14:59,068 : INFO :**************test_valid_admin_login started ******************************
+2026-03-13 19:15:15,047 : INFO :test data is passed
+2026-03-13 19:15:22,846 : INFO :test data is passed
+2026-03-13 19:15:28,585 : INFO :test data is passed
+2026-03-13 19:15:28,585 : INFO :Test Login data driven test Passed
+2026-03-13 19:15:31,012 : INFO :*************************************************************Test1_01_Admin_Login ************
+2026-03-13 19:15:31,012 : INFO :****************************Verification of admin login page title  ******************************************
+2026-03-13 19:15:40,131 : INFO :**************test_title_verification matched ******************************
+2026-03-13 19:15:42,615 : INFO :**************test_valid_admin_login started ******************************
+2026-03-13 19:15:52,967 : INFO :**************test_Dashboard text found ******************************
+2026-03-13 19:15:55,690 : INFO :**************test_invalid_admin_login started ******************************* ******************************
+2026-03-13 19:16:02,780 : INFO :**************test_No customer account found text matched ******************************
+2026-03-13 19:16:05,286 : INFO :***********************Test_04_001_search_customer_with_email_address Started*****
+2026-03-13 19:16:13,956 : INFO :****Login Completed****
+2026-03-13 19:16:13,956 : INFO :**************Navigating to customer_search_Page*************
+2026-03-13 19:16:21,178 : INFO :**************Started search_customer_by email*************
+2026-03-13 19:16:27,014 : INFO :*************Test_04_001_search_customer_with_email_address Passed*************
+2026-03-13 19:16:29,557 : INFO :***********************Test_04_002_search_customer_with_name Started*****
+2026-03-13 19:16:37,505 : INFO :****Login Completed****
+2026-03-13 19:16:37,506 : INFO :**************Navigating to customer_search_Page*************
+2026-03-13 19:16:50,157 : INFO :**************Started search_customer_by name*************
+2026-03-13 19:16:56,098 : INFO :*************Test_04_002_search_customer_with_name Passed*************
+2026-03-13 19:16:58,615 : INFO :***********************Test_04_003_search_customer_with_companyname Started*****
+2026-03-13 19:17:07,787 : INFO :****Login Completed****
+2026-03-13 19:17:07,788 : INFO :**************Navigating to customer_search_Page*************
+2026-03-13 19:17:15,431 : INFO :**************Started search_customer_by companyname*************
+2026-03-13 19:17:21,444 : INFO :*************Test_04_003_search_customer_with_companynamename Failed*************
